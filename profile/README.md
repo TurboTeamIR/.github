@@ -1,6 +1,6 @@
-# 🚀 Turbo Team
+# 🚀 TurboTeam
 
-**Turbo Team** is a professional, motivated, and energetic team of developers, designers, and tech experts dedicated to building innovative and efficient products. We love tackling technical challenges and always strive to deliver the best solutions for our users. Our mission is to develop fast, optimized, and user-friendly tools that positively impact businesses and everyday life.
+**TurboTeam** is a professional, motivated, and energetic team of developers, designers, and tech experts dedicated to building innovative and efficient products. We love tackling technical challenges and always strive to deliver the best solutions for our users. Our mission is to develop fast, optimized, and user-friendly tools that positively impact businesses and everyday life.
 
 ## 📌 Our Projects
 
