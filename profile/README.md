@@ -10,10 +10,6 @@ We are currently working on two main projects:
 
 TurboPing is a service that focuses on reducing ping and bypassing geo-restrictions, ensuring a smoother and faster internet experience for users.
 
-### 🔹 [TurboGift](https://turbogift.ir)
-
-TurboGift is a platform for selling legal accounts such as Spotify,ChatGPT,... making it easy and secure for users to purchase genuine subscriptions.
-
 ## 💡 Our Commitments
 
 - ✅ A professional, creative, and energetic team 🚀
